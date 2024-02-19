@@ -1,0 +1,9 @@
+ubilapaz\edu\bo\template\web\TestController.class
+ubilapaz\edu\bo\template\service\response\Response.class
+ubilapaz\edu\bo\template\domain\User.class
+ubilapaz\edu\bo\template\web\UsuarioController.class
+ubilapaz\edu\bo\template\domain\dto\UserDto.class
+ubilapaz\edu\bo\template\service\response\UserResponse.class
+ubilapaz\edu\bo\template\service\UserService.class
+ubilapaz\edu\bo\template\TemplateApplication.class
+ubilapaz\edu\bo\template\persistence\UserJpaRepository.class
